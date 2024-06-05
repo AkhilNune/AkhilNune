@@ -24,7 +24,7 @@
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="AkhilNune" height="30" width="40" /> 
  <strong>Portfolio</strong></a></p>
 
-### Programming Languages/Frameworks <img align="center" src="![image](https://github.com/AkhilNune/AkhilNune/assets/95137061/9d3bb5cf-683b-4808-b6e8-e72b3d33019b)"alt="AkhilNune" height="20" width="20" />:
+### Programming Languages/Frameworks <img align="center" src="![programming](https://github.com/AkhilNune/AkhilNune/assets/95137061/1699dc7a-775a-4baf-917e-46445d8f7365)" alt="AkhilNune" height="20" width="20" />:
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
 ### Cloud Technologies <img align="center" src="cloud.png" alt="AkhilNune" height="30" width="40" />:
