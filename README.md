@@ -19,6 +19,21 @@
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
 
+### Programming Languages/Frameworks <img align="center" src="programming.png" alt="santhoshguntupalli" height="30" width="40" />:
+Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
+
+### Cloud Technologies <img align="center" src="cloud.png" alt="santhoshguntupalli" height="30" width="40" />:
+AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
+
+### Big Data and Data Engineering Tools/Services <img align="center" src="big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
+Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
+
+### Machine Learning <img align="center" src="machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
+TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
+
+### DevOps, Monitoring, and Other Tools/Services <img align="center" src="tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
+Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
+
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,6 +57,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" height="40em"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="40em"/>
 </div>
+
 <h3 align="left">My GitHub Stats:</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilNune&show_icons=true&theme=tokyonight)
