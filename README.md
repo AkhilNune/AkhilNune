@@ -24,19 +24,19 @@
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="AkhilNune" height="30" width="40" /> 
  <strong>Portfolio</strong></a></p>
 
-#### Programming Languages/Frameworks <img align="center" src="programming.png" alt="AkhilNune" height="20" width="20" />:
+#### Programming Languages/Frameworks/>:
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-### Cloud Technologies <img align="center" src="cloud.png" alt="AkhilNune" height="30" width="40" />:
+#### Cloud Technologies/>:
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-### Big Data and Data Engineering Tools/Services <img align="center" src="big-data.png" alt="AkhilNune" height="30" width="40" />:
+#### Big Data and Data Engineering Tools/Services/>:
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-### Machine Learning <img align="center" src="machine-learning.png" alt="AkhilNune" height="30" width="40" />:
+#### Machine Learning/>:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-### DevOps, Monitoring, and Other Tools/Services <img align="center" src="tool-box.png" alt="AkhilNune" height="30" width="40" />:
+#### DevOps, Monitoring, and Other Tools/Services/>:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 <br/>
