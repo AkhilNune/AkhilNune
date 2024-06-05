@@ -44,7 +44,7 @@
 </div>
 <h3 align="left">My GitHub Stats:</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valusanikil&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valusanikil&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilNune&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilNune&theme=tokyonight)
 
 
