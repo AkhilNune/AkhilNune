@@ -19,7 +19,12 @@
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
 
-### Programming Languages/Frameworks <img align="center" src="programming.png" alt="AkhilNune" height="30" width="40" />:
+<br/>
+
+<p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="santhoshguntupalli" height="30" width="40" /> 
+ <strong>Portfolio</strong></a></p>
+
+### Programming Languages/Frameworks <img align="center" src="https://www.flaticon.com/free-icon/programming_6062646#" alt="AkhilNune" height="30" width="40" />:
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
 ### Cloud Technologies <img align="center" src="cloud.png" alt="AkhilNune" height="30" width="40" />:
