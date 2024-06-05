@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/valusanikil/" target="_blank">
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
-
+<br/>
 <br/>
 
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="santhoshguntupalli" height="30" width="40" /> 
