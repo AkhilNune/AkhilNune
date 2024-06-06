@@ -5,18 +5,15 @@
 <h3 align="center">A Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkhilNune&label=Profile%20views&color=0e75b6&style=flat" alt="AkhilNune" /> </p>
 <p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong> .NET Developer / Microsoft Cloud Azure Developer / ASP .NET Backend Development / Full Stack Development / Software roles.</strong></p>
-<p>&#x2022; 🤝 I worked at -> <strong>LTIMindtree as a  Dot Net Developer.</strong></p>
+<p>&#x2022; 🤝 I worked at -> <strong>SA Testing Services, LTIMindtree and DXC Technology as a Software Engineer.</strong></p>
 <p>&#x2022; 💞️ My Skills -> <strong>C#, Python, Java, .NET, .NET Core, ASP .NET, OOPS, Microservices, HTML, CSS, JS, React, MYSQL, Shell Scripting, DevOps, Terraforms, Docker.</strong></p>
 <p>&#x2022; 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 -> <strong>EASTech a service based start-up company.</strong></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYRuL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>resume</strong></a></p>
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:akhilnune31@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="Akhil Nune" height="30" width="40" /><strong>akhilnune31@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/nikil-valusa/" target="_blank">
+<a href="https://www.linkedin.com/in/akhil-nune-9098491a0/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/valusanikil/" target="_blank">
-  <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
 <br/>
 <br/>
@@ -25,10 +22,10 @@
  <strong>Portfolio</strong></a></p>
 
 #### Programming Languages/Frameworks:
-Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
+ C#, .NET Development, LINQ, Python, Java, JavaScript, C, Shell Scripting, 
 
 #### Cloud Technologies:
-AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
+Azure, AWS, Snowflake, Oracle, Docker, Kubernetes
 
 #### Big Data and Data Engineering Tools/Services:
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
