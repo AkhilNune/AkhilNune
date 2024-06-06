@@ -4,12 +4,12 @@
 
 <h3 align="center">A Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkhilNune&label=Profile%20views&color=0e75b6&style=flat" alt="AkhilNune" /> </p>
-<p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong>Java Developer / Java Microservices Developer / Java Backend Development / Full Stack Development / Data Analyst roles.</strong></p>
+<p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong> .NET Developer / Microsoft Cloud Azure Developer / ASP .NET Backend Development / Full Stack Development / Software roles.</strong></p>
 <p>&#x2022; 🤝 I worked at -> <strong>LTIMindtree as a  Dot Net Developer.</strong></p>
-<p>&#x2022; 💞️ My Skills -> <strong>C, Python, Java, Spring, Spring Boot, Spring WebFlux, Microservices, HTML, CSS, JS, Angular, MYSQL, Maven, Junit, Docker.</strong></p>
-<p>&#x2022; 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 -> <strong>WORKEDO a service based start-up company.</strong></p>
+<p>&#x2022; 💞️ My Skills -> <strong>C#, Python, Java, .NET, .NET Core, ASP .NET, OOPS, Microservices, HTML, CSS, JS, React, MYSQL, Shell Scripting, DevOps, Terraforms, Docker.</strong></p>
+<p>&#x2022; 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 -> <strong>EASTech a service based start-up company.</strong></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYRuL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>resume</strong></a></p>
-<p>&#x2022; 📫 How to reach me -> <a href="mailto:valusa.nikhil13@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="valusanikil" height="30" width="40" /><strong>valusa.nikhil13@gmail.com</strong></a></p>
+<p>&#x2022; 📫 How to reach me -> <a href="mailto:akhilnune31@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="Akhil Nune" height="30" width="40" /><strong>akhilnune31@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nikil-valusa/" target="_blank">
