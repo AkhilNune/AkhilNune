@@ -41,7 +41,7 @@ Jenkins, JIRA, CI/CD, Kafka, Ansible, Jenkins, Postman, GitHub, Git, RESTful, Po
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="40em"/>
-  <img src="	https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="40em"/>
+  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="40em"/>
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="40em"/>
   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height="40em"/>
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="40em"/>
