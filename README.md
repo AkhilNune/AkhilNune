@@ -4,11 +4,11 @@
 
 <h3 align="center">A Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkhilNune&label=Profile%20views&color=0e75b6&style=flat" alt="AkhilNune" /> </p>
-<p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong> .NET Developer / Microsoft Cloud Azure Developer / ASP .NET Backend Development / Full Stack Development / Software roles.</strong></p>
+<p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong> .NET Developer / Microsoft Cloud Azure Developer / ASP .NET Backend Development / Full Stack Development / Data Scientist / Software roles.</strong></p>
 <p>&#x2022; 🤝 I worked at -> <strong>SA Testing Services, LTIMindtree and DXC Technology as a Software Engineer.</strong></p>
-<p>&#x2022; 💞️ My Skills -> <strong>C#, Python, Java, .NET, .NET Core, ASP .NET, OOPS, Microservices, HTML, CSS, JS, React, MYSQL, NOSQL, Shell Scripting, CI/CD, DevOps, Terraforms, Docker, Kubernetes.</strong></p>
+<p>&#x2022; 💞️ My Skills -> <strong>C#, Python, Java, .NET, .NET Core, ASP .NET, OOPS, Microservices, Machine Learning, HTML, CSS, JS, React, MYSQL, NOSQL, Shell Scripting, CI/CD, DevOps, Terraforms, Docker, Kubernetes.</strong></p>
 <p>&#x2022; 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 -> <strong>EASTech a service based start-up company.</strong></p>
-<p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYRuL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>resume</strong></a></p>
+<p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYRuL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>Resume</strong></a></p>
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:akhilnune31@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="Akhil Nune" height="30" width="40" /><strong>akhilnune31@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-<p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="AkhilNune" height="30" width="40" /> 
+<p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="" height="30" width="40" /> 
  <strong>Portfolio</strong></a></p>
 
 #### Programming Languages/Frameworks:
@@ -31,7 +31,7 @@ Azure, AWS, Snowflake, Oracle, Docker, Kubernetes.
 .NET Core, ASP.NET MVC, ADO .Net, Web API, LINQ, Microservices, RESTful Web Services, Azure IAM, Azure Functions, Azure Data Factory (ADF), Synapse Analytics, Amazon S3, Amazon Lambda,  Databricks, T-SQL, PostgreSQL, MongoDB.
 
 #### Machine Learning:
-TensorFlow, Scikit-Learn, PyTorch, scikit-learn, PySpark, NLTK, LLM’s, Predictive Modeling, Statistical Analysis. 
+TensorFlow, Scikit-Learn, PyTorch, scikit-learn, PySpark, Spark, Hadoop, NLTK, LLM’s, Predictive Modeling, Statistical Analysis Data transformation and cleaning. 
 
 #### DevOps, Monitoring, and Other Tools/Services:
 Jenkins, JIRA, CI/CD, Kafka, Ansible, Jenkins, Postman, GitHub, Git, RESTful, PowerShell, Linux, UI/UX, Bash, Jupyter Notebooks, PyCharm.</strong></p>
