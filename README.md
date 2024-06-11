@@ -8,7 +8,7 @@
 <p>&#x2022; 🤝 I worked at -> <strong>SA Testing Services, LTIMindtree and DXC Technology as a Software Engineer.</strong></p>
 <p>&#x2022; 💞️ My Skills -> <strong>C#, Python, Java, .NET, .NET Core, ASP .NET, OOPS, Microservices, Machine Learning, HTML, CSS, JS, React, MYSQL, NOSQL, Shell Scripting, CI/CD, DevOps, Terraforms, Docker, Kubernetes.</strong></p>
 <p>&#x2022; 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 -> <strong>EASTech a service based start-up company.</strong></p>
-<p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYRuL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>Resume</strong></a></p>
+<p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>Resume</strong></a></p>
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:akhilnune31@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="Akhil Nune" height="30" width="40" /><strong>akhilnune31@gmail.com</strong></a></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupa.github.io/"><img align="center" src="portfolio.png" alt="" height="30" width="40" /> 
  <strong>Portfolio</strong></a></p>
